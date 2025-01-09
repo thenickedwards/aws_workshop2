@@ -1,0 +1,26 @@
+{
+  "STUDENT": "Nick Edwards",
+  "KEY": "fbec0f48712940668302f52274af4501",
+  "HOST": "http://ec2-3-221-216-140.compute-1.amazonaws.com:8000",
+  "WORKSHOP": "2",
+  "POST_PAYLOAD": {
+    "id": 2,
+    "title": "Workshop autograded by Nick Edwards",
+    "tutorial_url": "http://www.fbec0f48712940668302f52274af4501.com",
+    "image_path": "fbec0f48712940668302f52274af4501.PNG",
+    "description": "A tutorial about fbec0f48712940668302f52274af4501",
+    "published": true
+  },
+  "POST_HASH": 4520436263149456835,
+  "GET_PAYLOAD": {
+    "id": 2,
+    "title": "Workshop autograded by Nick Edwards",
+    "tutorial_url": "http://www.fbec0f48712940668302f52274af4501.com",
+    "image_path": "fbec0f48712940668302f52274af4501.PNG",
+    "description": "A tutorial about fbec0f48712940668302f52274af4501",
+    "published": true
+  },
+  "GET_HASH": 4520436263149456835,
+  "RESPONSE_CODE": 201,
+  "ERROR": null
+}
